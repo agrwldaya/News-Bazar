@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "David Teeger: Axing of South Africa U19 cricket captain sparks antisemitism row",
+            "description": "Cricket South Africa officials say they demoted David Teeger because of safety concerns after his comments about the Gaza conflict.",
+            "url": "http://www.bbc.co.uk/sport/africa/67957459",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/1460C/production/_132286438_gettyimages-1456782185.jpg",
+            "publishedAt": "2024-01-12T16:52:21.1201029Z",
+            "content": "Cricket South Africa (CSA) has said it has dropped David Teeger as captain of its Under-19 side because of security concerns following comments he made about the ongoing conflict in Gaza.\r\nBut Jewish… [+3006 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "Warner takes helicopter to SCG for Big Bash match",
+            "description": "David Warner flew by helicopter and landed in the middle of the Sydney Cricket Ground as he dashed from his brother's wedding to play in the Big Bash for the Sydney Thunder.",
+            "url": "http://www.bbc.co.uk/sport/cricket/67957608",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/17001/production/_132290249_gettyimages-1926577344.jpg",
+            "publishedAt": "2024-01-12T16:07:26.2453305Z",
+            "content": "David Warner will make three appearances for Sydney Thunder this season\r\n<table><tr><th>Big Bash League</th></tr>\r\n<tr><td>Sydney Sixers 151-7 (Philippe 47, Silk 35; McAndrew 2-17)</td></tr><tr><td>S… [+1034 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        }
+    ]
+}
